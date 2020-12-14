@@ -9,7 +9,8 @@ The purpose of this application is to help people reach their fitness goals quic
 * Node.js
 * Express
 
-
-
 # Usage 
 User of the application is able to create a new workout or a new exercie in the existing workout. They are able to track the name, type, weight, sets, reps, and duration of each exercise.
+
+
+# ENJOY 

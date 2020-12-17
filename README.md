@@ -1,4 +1,4 @@
-# Fast_Track_App
+# Fast Track App
 
 # Overview 
 The purpose of this application is to help people reach their fitness goals quickly, since the productivity in general increases when we track the achievments. 
